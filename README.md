@@ -18,7 +18,7 @@ This project was built to solve a real-world problem: capturing fleeting ideas, 
 
 ## 🛠 Tech Stack
 
-- [OpenAI Custom GPTs](https://platform.openai.com/gpts)
+- [OpenAI Custom GPTs](https://help.openai.com/en/articles/8554397-creating-a-gpt)
 - [Airtable API](https://airtable.com/developers/web/api/introduction)
 - JSON-based Action schema with `Bearer` token auth
 - No-code frontend form (built within Airtable)
