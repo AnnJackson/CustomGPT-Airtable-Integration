@@ -12,7 +12,7 @@ This project was built to solve a real-world problem: capturing fleeting ideas, 
 - 🔍 **Retrieve structured entries** using a custom GPT with read access
 - 🧠 **Summarize, prioritize, and group ideas** with intelligent prompts
 - ✅ **Update priority and mark tasks as completed** (PATCH requests)
-- ✍️ **Add new entries directly** from the GPT once trust is established
+- ✍️ **Add new entries directly** from the GPT (when you're ready)
 
 ---
 
@@ -27,7 +27,7 @@ This project was built to solve a real-world problem: capturing fleeting ideas, 
 
 ## 📂 Files Included
 
-- `schema.yaml` – GPT Action schema for Airtable integration
+- `AirtableSchema.yaml` – GPT Action schema for Airtable integration
 
 ---
 
@@ -57,6 +57,6 @@ PATs are secrets—**never share them publicly**. Store them securely (e.g., in 
 
 ## ✨ Inspiration
 
-This project was born from a desire to make AI more **integrated**, **collaborative**, and *human-friendly*. Read the full story here → [Medium Article Link]
+This project was born from a desire to make AI more **integrated**, **collaborative**, and *human-friendly*. Read the full story here → [Medium](https://annujackson.medium.com/give-your-custom-gpt-external-memory-easily-and-upgrade-your-life-majorly-e11765114741)
 
 ---
